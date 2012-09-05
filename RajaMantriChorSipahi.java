@@ -4,7 +4,7 @@ public class RajaMantri extends Activity {
 	@Override
 	public void onBackPressed() {
 		
-
+          super.onBackPressed();
 		
 	}
 
